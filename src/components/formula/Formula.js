@@ -16,7 +16,6 @@ export class Formula extends ExcelComponent {
             fx
             </div>
             <div class="input" contenteditable="true" spellcheck="false">
-    
             </div>
         `
     }
